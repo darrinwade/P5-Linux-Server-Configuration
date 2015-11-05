@@ -10,7 +10,7 @@ and served up via an Apache webserver.
 - The IP address is 52.89.49.213 and the port the application is running on is 2200
 
 - The application itself can be reached at either of the following two URLs:
-    http://ec-52-89-49-213.us.west-2.compute.amazonaws.com
+    http://ec2-52-89-49-213.us.west-2.compute.amazonaws.com
                   or
     http://52.89.49.213
 
