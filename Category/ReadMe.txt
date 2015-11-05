@@ -153,7 +153,7 @@ ________________________________________________________________________________
 In order test/run the category application, perform the following steps:
 
 (01) Using a standard browser, you should be able to access the application "home page"
-     by typing http://ec-52-89-49-213.us.west-2.compute.amazonaws.com <Enter> on the URL.
+     by typing http://ec2-52-89-49-213.us.west-2.compute.amazonaws.com <Enter> on the URL.
      
  From there you can begin viewing any existing category and associated item entries or you can
  look to add your own category entries once you've logged into the application.  Authourization
